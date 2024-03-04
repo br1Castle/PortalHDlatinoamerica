@@ -1,0 +1,78 @@
+/* Estilos para el header */
+header {
+  background-color: #35374B;
+  color: white;
+  text-align: center;
+  padding: 20px 0; /* Espaciado interno arriba y abajo */
+  margin-bottom: 50px;
+}
+
+/* Estilos para el texto del encabezado */
+header h1 {
+  margin: 0;
+}
+
+body{
+  margin: 0px 0px 0px 0px;
+  background-color: #50727B;
+}
+
+/* Estilos para el formulario de inicio de sesión */
+form{
+  background-color: #344955;
+  color: white;
+  padding: 20px;
+  width: 300px;
+  margin: 0 auto; /* Centrar horizontalmente */
+  border-radius: 10px; /* Bordes redondeados */
+}
+
+/* Estilos para los campos de entrada del formulario */
+form input[type="text"]{
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: none;
+  border-radius: 5px;
+}
+
+/* Estilos para el botón de enviar del formulario */
+button{
+  width: 100%;
+  padding: 10px;
+  margin-top: 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #50727B;
+  color: white;
+  cursor: pointer;
+}
+
+/* Estilos para el botón de enviar del formulario al pasar el ratón */
+button:hover {
+  background-color: #1E2B32;
+}
+
+
+footer {
+  background-color: #78A083;
+  color: white;
+  text-align: center;
+  padding: 20px 0; /* Espaciado interno arriba y abajo */
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+/* Estilos para los enlaces del footer */
+footer a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px; /* Espaciado entre enlaces */
+}
+
+/* Estilos para los enlaces del footer al pasar el ratón */
+footer a:hover {
+  text-decoration: underline;
+}
