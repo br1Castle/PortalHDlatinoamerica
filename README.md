@@ -19,9 +19,13 @@ Funcionalidades
 Este portal cuenta con las siguientes funcionalidades:
 
 HTML y CSS: Las páginas están estructuradas y estilizadas utilizando HTML y CSS.
+
 PHP: Se utiliza PHP para la lógica del lado del servidor, incluyendo cookies, sesiones, arrays y ciclos.
+
 MySQL: Se utiliza MySQL para la gestión de la base de datos.
+
 XAMPP: XAMPP se utiliza como entorno de desarrollo local para ejecutar el servidor web y la base de datos.
+
 
 Autor
 Este proyecto fue desarrollado por Bruno Castillo Gonzalez.
