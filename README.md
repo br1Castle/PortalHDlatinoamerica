@@ -5,10 +5,15 @@ Instrucciones de Uso
 Para poder visualizar la página de forma local, sigue estos pasos:
 
 1.- Descarga e instala XAMPP y phpMyAdmin.
+
 2.- Una vez instalados, asegúrate de que XAMPP y phpMyAdmin estén encendidos.
+
 3.- Navega hasta la carpeta de instalación de XAMPP (XAMPP/htdocs) y pega la carpeta brunono de este repositorio.
+
 4.- Una vez hecho esto, abre tu navegador web preferido.
+
 5.- Dirígete a http://localhost/brunono/ para visualizar el portal.
+
 
 Funcionalidades
 Este portal cuenta con las siguientes funcionalidades:
